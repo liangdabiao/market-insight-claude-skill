@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python \"D:\\\\hulatang\\\\.claude\\\\skills\\\\skill-creator\\\\scripts\\\\init_skill.py\" insight --path \"D:\\\\hulatang\\\\.claude\\\\skills\")"
-    ]
-  }
-}
